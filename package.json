@@ -1,24 +1,25 @@
 {
-  "name": "capstone-project-2",
+  "name": "kanban-capstone",
   "version": "1.0.0",
   "description": "<a name=\"readme-top\"></a>",
   "main": "webpack.config.js",
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "test": "jest",
     "start": "webpack serve --open",
     "build": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shegy28/Capstone-project-2.git"
+    "url": "git+https://github.com/developertariq/Kanban-Capstone.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shegy28/Capstone-project-2/issues"
+    "url": "https://github.com/developertariq/Kanban-Capstone/issues"
   },
-  "homepage": "https://github.com/shegy28/Capstone-project-2#readme",
+  "homepage": "https://github.com/developertariq/Kanban-Capstone/",
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.19.6",
     "babel-eslint": "^10.1.0",
@@ -43,6 +44,7 @@
   },
   "dependencies": {
     "babel-jest": "^29.3.1",
+    "gh-pages": "^4.0.0",
     "lodash": "^4.17.21",
     "ts-jest": "^29.0.3"
   },
