@@ -35,15 +35,16 @@ body {
   height: 340px;
 }
 
-.gallery img, .gallery #img-div {
+.gallery img,
+.gallery #img-div {
   width: 100%;
   max-width: 350px;
   object-fit: cover;
-  border-radius: 4px; 
+  border-radius: 4px;
 }
 
 .gallery #img-div {
-  height: 470x;
+  height: 470px;
   text-align: center;
   margin: 16px 10px;
   box-shadow: 2px 2px 7px 0;
@@ -76,42 +77,11 @@ a {
   list-style-type: none;
 }
 
-/* .grid-container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 10px;
-  gap: 40px;
-  margin: 0 9%;
-}
-
-.grid-item {
-  width: auto;
-  background-color: #fff;
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  border-radius: 5px;
-  font-size: 30px;
-  text-align: center;
-  box-shadow: 2px 2px 17px 0;
-}
-
-img {
-  width: 100%;
-  height: 240px;
-  border-radius: 5px;
-} */
-
 .card-title {
   display: flex;
   justify-content: space-between;
   padding: 0 16px;
   line-height: 13px;
-}
-
-.likes {
-  font-size: 13px;
 }
 
 .material-symbols-outlined {
@@ -132,6 +102,7 @@ img {
 .likes {
   text-align: start;
   padding: 0 4%;
+  font-size: 16px;
 }
 
 p {
