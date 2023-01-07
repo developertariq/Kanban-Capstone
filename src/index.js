@@ -1,12 +1,12 @@
 import './style.css';
 import loadElements from './modules/populatePopupWindow.js';
-import populateMeal from './modules/populate.js';
+import populateCard from './modules/populateHomepage.js';
 import { createLikes } from './modules/getLikes.js';
 import showlike from './modules/showLike.js';
 import counter from './modules/mealCounter.js';
 
 document.addEventListener('DOMContentLoaded', async () => {
-  await populateMeal();
+  await populateCard();
   const textLikes = document.querySelectorAll('.like-counter');
   textLikes.forEach(async (textLike) => {
     await showlike(textLike);

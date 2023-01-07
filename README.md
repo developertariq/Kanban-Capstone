@@ -38,7 +38,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖 Capstone Project 2 ](#-capstone-project-2-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -137,7 +137,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/shegy28/Capstone-project-2.git
+  git clone https://github.com/developertariq/Kanban-Capstone.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -156,9 +156,9 @@ Clone this repository to your desired folder:
 
 👤 **Md Tariq-ul Islam**
 
-- GitHub: [@developer_tariq](@developertariq)
-- LinkedIn: [@developer_tariq](www.linkedin.com/in/developer-tariq)
-- Twitter: [@developer_tariq](@developer_tariq)
+- GitHub: [@developertariq](@developertariq)
+- LinkedIn: [@developertariq](www.linkedin.com/in/developer-tariq)
+- Twitter: [@developertariq](@developer_tariq)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
